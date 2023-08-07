@@ -1,0 +1,2 @@
+#!/bin/bah
+sed -n '3p' iacta
